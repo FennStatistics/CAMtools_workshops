@@ -20,7 +20,7 @@ Two differents options are available regarding the use of this software:
 * We currently setting up an administrative panel to easily set up and configure your C.A.M.E.L. study.
 
 ## list of CAM workshops
-- [Feedback psychology program Freiburg 2022](/Feedback%20psychology%20program%20Freiburg%202022) (C.A.M.E.L. version 1.7, CAM-App version 1.4)
+- [Introduction to our developed tools for “Cognitive-Affective Maps”, May 2022](https://github.com/FennStatistics/CAMtools_workshops/blob/main/presenting%20CAMtools%2020220510/20220510_presentCAMtools_2.pdf) (C.A.M.E.L. version 1.7, CAM-App version 1.4)
 
 
 ## Acknowledgments
