@@ -2,7 +2,10 @@
 
 
 ## list of CAM workshops
-- [Introduction to our developed tools for “Cognitive-Affective Maps”, May 2022](https://github.com/FennStatistics/CAMtools_workshops/blob/main/presenting%20CAMtools%2020220510/20220510_presentCAMtools_2.pdf) (C.A.M.E.L. version 1.7, CAM-App version 1.4)
+
+*The list will be ordered chronically starting with the most recent workshop:* 
+
+- [Introduction to our developed tools for “Cognitive-Affective Maps”, May 2022](https://github.com/FennStatistics/CAMtools_workshops/blob/main/presenting%20CAMtools%2020220510/20220510_presentCAMtools_2.pdf) (C.A.M.E.L. version 1.4, CAM-App version 1.4)
 
 
 ## CAM tools list
