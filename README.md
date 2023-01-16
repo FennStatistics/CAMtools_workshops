@@ -1,5 +1,12 @@
 # C.A.M. tools workshops
 
+
+## list of CAM workshops
+- [Introduction to our developed tools for “Cognitive-Affective Maps”, May 2022](https://github.com/FennStatistics/CAMtools_workshops/blob/main/presenting%20CAMtools%2020220510/20220510_presentCAMtools_2.pdf) (C.A.M.E.L. version 1.7, CAM-App version 1.4)
+
+
+## CAM tools list
+
 In this GitHub Repro I will collect all files regarding CAMEL tools workshops. Cognitive-Affective Map tools encompasses the following tools: 
 
 - Data collectin tool Cognitive-Affective Map Extended Logic (C.A.M.E.L.) 🐪: https://camgalaxy.github.io/
@@ -10,9 +17,6 @@ In this GitHub Repro I will collect all files regarding CAMEL tools workshops. C
     - the administrative webpage is accompanied by a documentation: https://camtools-documentation.readthedocs.io/en/master/ 
 - all collected CAM data sets with analysis files / explenations can be found here: https://github.com/FennStatistics/CAMdatasets
 
-
-## list of CAM workshops
-- [Introduction to our developed tools for “Cognitive-Affective Maps”, May 2022](https://github.com/FennStatistics/CAMtools_workshops/blob/main/presenting%20CAMtools%2020220510/20220510_presentCAMtools_2.pdf) (C.A.M.E.L. version 1.7, CAM-App version 1.4)
 
 
 ## Acknowledgments
