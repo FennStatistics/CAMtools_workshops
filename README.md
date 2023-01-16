@@ -11,14 +11,6 @@ In this GitHub Repro I will collect all files regarding CAMEL tools workshops. C
 - all collected CAM data sets with analysis files / explenations can be found here: https://github.com/FennStatistics/CAMdatasets
 
 
-## Getting Started
-
-The standalone version is based on pure html, css and javascript. It is perfect in case you only need an interface to draw CAM.
-
-Two differents options are available regarding the use of this software: 
-*  All the data can be sent to personal servers such as MangoDB, Jatos, Pavlovia or any other ones. 
-* We currently setting up an administrative panel to easily set up and configure your C.A.M.E.L. study.
-
 ## list of CAM workshops
 - [Introduction to our developed tools for “Cognitive-Affective Maps”, May 2022](https://github.com/FennStatistics/CAMtools_workshops/blob/main/presenting%20CAMtools%2020220510/20220510_presentCAMtools_2.pdf) (C.A.M.E.L. version 1.7, CAM-App version 1.4)
 
