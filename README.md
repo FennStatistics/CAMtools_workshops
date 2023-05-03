@@ -5,7 +5,7 @@
 
 *The list will be ordered chronically starting with the most recent workshop:* 
 
-- [Presenting CAM tools overview (SMiP retreat), Apil 2023](https://github.com/FennStatistics/CAMtools_workshops/tree/main/network%20similarity%20of%20CAMs%2020230202) (C.A.M.E.L. version 1.8, CAM-App version 2.2)
+- [Presenting CAM tools overview (SMiP retreat), Apil 2023](https://github.com/FennStatistics/CAMtools_workshops/tree/main/SMiP%20retreat%2020230421) (C.A.M.E.L. version 1.8, CAM-App version 2.2)
 - [Presenting two measures of network-similarity, February 2023](https://github.com/FennStatistics/CAMtools_workshops/tree/main/network%20similarity%20of%20CAMs%2020230202) (C.A.M.E.L. version 1.7, CAM-App version 2.1)
 - [Introduction to our developed tools for “Cognitive-Affective Maps” (informal workshop), February 2023](https://github.com/FennStatistics/CAMtools_workshops/tree/main/presenting%20CAMtools%2020230202) (C.A.M.E.L. version 1.7, CAM-App version 2.1)
 - [Introduction to our developed tools for “Cognitive-Affective Maps”, May 2022](https://github.com/FennStatistics/CAMtools_workshops/blob/main/presenting%20CAMtools%2020220510/20220510_presentCAMtools_2.pdf) (C.A.M.E.L. version 1.4, CAM-App version 1.3)
