@@ -5,6 +5,7 @@
 
 *The list will be ordered chronically starting with the most recent workshop:* 
 
+- [CAMs Introduction to Landau, May 2024](https://github.com/FennStatistics/CAMtools_workshops/tree/main/CAMtools%20Workshop%2020231128)
 - [CAM Tools Workshop, November 2023](https://github.com/FennStatistics/CAMtools_workshops/tree/main/CAMtools%20Workshop%2020231128)
 - [Presenting CAM App, June 2023](https://github.com/FennStatistics/CAMtools_workshops/tree/main/presenting%20CAMApp%2020230605) (C.A.M.E.L. version 1.9, CAM-App version 2.2)
 - [Presenting CAM tools overview (SMiP retreat), Apil 2023](https://github.com/FennStatistics/CAMtools_workshops/tree/main/SMiP%20retreat%2020230421) (C.A.M.E.L. version 1.8, CAM-App version 2.2)
