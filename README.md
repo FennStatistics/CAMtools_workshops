@@ -21,8 +21,8 @@ In this GitHub Repro I will collect all files regarding CAMEL tools workshops. C
 
 - Data collectin tool Cognitive-Affective Map Extended Logic (C.A.M.E.L.) 🐪: https://camgalaxy.github.io/
 - Data Analysis CAM-App programmed in Shiny (R), links to
-    - version 1.X: https://fennapps.shinyapps.io/shinyCAMELv01/
-    - version 2.X: https://fennapps.shinyapps.io/shinyCAMEL_v02/
+    - version 1.X: not updated anymore
+    - version 2.X: https://fennapps.shinyapps.io/CAMtools_CAMapp/
 - in the future an administrative webpage, current developer version: https://drawyourminds.de/
     - the administrative webpage is accompanied by a documentation: https://camtools-documentation.readthedocs.io/en/master/ 
 - all collected CAM data sets with analysis files / explenations can be found here: https://github.com/FennStatistics/CAMdatasets
