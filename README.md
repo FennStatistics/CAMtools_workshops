@@ -20,7 +20,7 @@
 
 In this GitHub Repro I will collect all files regarding CAMEL tools workshops. Cognitive-Affective Map tools encompasses the following tools: 
 
-- Data collectin tool Cognitive-Affective Map Extended Logic (C.A.M.E.L.) 🐪: https://camgalaxy.github.io/
+- Data collection tool Cognitive-Affective Map Extended Logic (C.A.M.E.L.) 🐪: https://camgalaxy.github.io/
 - Data Analysis CAM-App programmed in Shiny (R), links to
     - version 1.X: not updated anymore
     - version 2.X: https://fennapps.shinyapps.io/CAMtools_CAMapp/
